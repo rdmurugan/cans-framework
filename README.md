@@ -48,7 +48,7 @@ Edit
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/cans-framework.git
+git clone https://github.com/rdmurugan/cans-framework.git
 cd cans-framework
 
 # Install dependencies
