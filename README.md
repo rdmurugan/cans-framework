@@ -368,6 +368,7 @@ Areas we'd love help with:
 ## 👨‍🔬 Authors
 
 **Durai Rajamanickam** – [@duraimuruganr](https://github.com/rdmurugan)
+reach out to durai@infinidatum.net
 
 ## 📜 License
 
